@@ -1,0 +1,1 @@
+Here’s a Python implementation to perform Exploratory Data Analysis (EDA) and Clustering on the McDonald’s dataset. We’ll start with loading the dataset, cleaning it, performing clustering, and visualizing the results.
